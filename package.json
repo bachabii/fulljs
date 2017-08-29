@@ -1,0 +1,19 @@
+{
+  "name": "fulljs",
+  "version": "1.0.0",
+  "description": "Learning Fullstack JavaScript Development: MongoDB, Node, and React (Lynda)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bachabii/fulljs.git"
+  },
+  "author": "Ismael Bachabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bachabii/fulljs/issues"
+  },
+  "homepage": "https://github.com/bachabii/fulljs#readme"
+}
