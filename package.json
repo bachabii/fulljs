@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "nodemon --exec babel-node server.js --ignore public/",
+    "start": "nodemon --exec babel-node server.js --ignore public/",
     "dev": "webpack -wd"
   },
   "repository": {
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/bachabii/fulljs#readme",
   "dependencies": {
+    "ejs": "^2.5.7",
     "express": "^4.15.4",
     "mongodb": "^2.2.31",
     "react": "^15.6.1",
