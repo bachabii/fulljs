@@ -20,6 +20,7 @@
   "homepage": "https://github.com/bachabii/fulljs#readme",
   "dependencies": {
     "axios": "^0.16.2",
+    "body-parser": "^1.17.2",
     "ejs": "^2.5.7",
     "express": "^4.15.4",
     "json-loader": "^0.5.7",
